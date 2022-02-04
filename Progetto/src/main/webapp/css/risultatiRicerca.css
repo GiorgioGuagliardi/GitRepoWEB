@@ -1,0 +1,17 @@
+.container-fluid{
+	padding:70px 60px;
+}
+
+.card-img-top{
+	height:950px;
+	width: 100%;
+}
+
+#principale{
+	background-color:#ffffff;
+}
+
+#schede{
+	background-color:#f6f6f6;
+}
+
